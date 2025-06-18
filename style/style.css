@@ -24,7 +24,8 @@
 body {
     /* background-color: rgb(247, 247, 247); */
     /* background-color:bisque */
-    background-color: beige;
+    /* background-color: beige; */
+    background-color: antiquewhite;
 
 }
 
@@ -494,13 +495,11 @@ width: 100%;
 
 }
 
-.icon {
-    display: flex;
-    gap: 10px;
-}
+
 
 .marquee {
-    margin: 20px;
+    margin-top: 30px;
+    margin-bottom: 20px;
     font-size: 2rem;
     background-color: bisque;
 }
