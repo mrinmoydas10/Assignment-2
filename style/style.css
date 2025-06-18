@@ -499,6 +499,20 @@ width: 100%;
     gap: 10px;
 }
 
+.marquee {
+    margin: 20px;
+    font-size: 2rem;
+    background-color: bisque;
+}
+
+.marquee2 {
+    color: orange;
+}
+
+.marquee1 {
+    color: rgb(1, 172, 253);
+}
+
 
 
 
